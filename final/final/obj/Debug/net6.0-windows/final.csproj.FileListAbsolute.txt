@@ -1,0 +1,16 @@
+C:\Visual Programming\final\final\bin\Debug\net6.0-windows\final.exe
+C:\Visual Programming\final\final\bin\Debug\net6.0-windows\final.deps.json
+C:\Visual Programming\final\final\bin\Debug\net6.0-windows\final.runtimeconfig.json
+C:\Visual Programming\final\final\bin\Debug\net6.0-windows\final.dll
+C:\Visual Programming\final\final\bin\Debug\net6.0-windows\final.pdb
+C:\Visual Programming\final\final\obj\Debug\net6.0-windows\final.Form1.resources
+C:\Visual Programming\final\final\obj\Debug\net6.0-windows\final.csproj.GenerateResource.cache
+C:\Visual Programming\final\final\obj\Debug\net6.0-windows\final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Programming\final\final\obj\Debug\net6.0-windows\final.AssemblyInfoInputs.cache
+C:\Visual Programming\final\final\obj\Debug\net6.0-windows\final.AssemblyInfo.cs
+C:\Visual Programming\final\final\obj\Debug\net6.0-windows\final.csproj.CoreCompileInputs.cache
+C:\Visual Programming\final\final\obj\Debug\net6.0-windows\final.dll
+C:\Visual Programming\final\final\obj\Debug\net6.0-windows\refint\final.dll
+C:\Visual Programming\final\final\obj\Debug\net6.0-windows\final.pdb
+C:\Visual Programming\final\final\obj\Debug\net6.0-windows\final.genruntimeconfig.cache
+C:\Visual Programming\final\final\obj\Debug\net6.0-windows\ref\final.dll
